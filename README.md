@@ -1,5 +1,5 @@
 # Cadimiel Pedro
-### Endpoint Administrator | Cybersecurity & Red Teaming | Automation Specialist
+### Junior System Administrator | Cybersecurity & Red Teaming | Automation Specialist
 
 Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure management, endpoint security, and workflow automation. Currently in **"Monk Mode"**—focusing 100% on technical density, deep work, and high-performance execution.
 
@@ -30,8 +30,6 @@ Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure ma
 - ✅ **MS-900** (Microsoft 365 Fundamentals)
 - ✅ **ZCU** (Zabbix Certified User)
 - ⏳ **SC-900** (Microsoft Security Fundamentals) - *In Progress*
-- ⏳ **eJPTv2** (Junior Penetration Tester) - *Target*
-
 ---
 
 ### 🏗️ Main Projects
